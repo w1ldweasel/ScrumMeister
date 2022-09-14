@@ -1,2 +1,7 @@
-int number = 10;
-cout << number;
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello World!";
+    return 0;
+}
